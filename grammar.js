@@ -279,7 +279,7 @@ module.exports = grammar(C, {
         $.parameter_declaration,
         $.optional_parameter_declaration,
         $.variadic_parameter_declaration,
-        '...'
+        $.variadic_parameter
       )),
       ')'
     ),

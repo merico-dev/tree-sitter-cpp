@@ -4286,8 +4286,8 @@
                       "name": "variadic_parameter_declaration"
                     },
                     {
-                      "type": "STRING",
-                      "value": "..."
+                      "type": "SYMBOL",
+                      "name": "variadic_parameter"
                     }
                   ]
                 },
@@ -4316,8 +4316,8 @@
                             "name": "variadic_parameter_declaration"
                           },
                           {
-                            "type": "STRING",
-                            "value": "..."
+                            "type": "SYMBOL",
+                            "name": "variadic_parameter"
                           }
                         ]
                       }
